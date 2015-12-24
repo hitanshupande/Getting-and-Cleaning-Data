@@ -1,4 +1,4 @@
-Introduction
+##Introduction
 
 This codebook contains descriptions related to the project work carried out as part of the Coursera offering Getting and Cleaning Data. It contains variable description and transformations carried out to arrive at a clean data set in `tidy.txt`.
 
